@@ -1,0 +1,1 @@
+In this tutorial, I'll use the Infrared-Ocean-Target images to demonstrate the basic progress of training a YOLOv8 model.
